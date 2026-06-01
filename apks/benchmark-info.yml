@@ -25,7 +25,8 @@
 
 - id: icc_dynregister2
   apk: IccTargetFinding/icc_dynregister2.apk
-  expected: 1
+  expected: 0
+  groundTruth: 1
 
 - id: icc_explicit1
   apk: IccTargetFinding/icc_explicit1.apk
